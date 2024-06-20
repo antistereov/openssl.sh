@@ -66,8 +66,8 @@ distinguished_name = dn
 C = DE
 ST = Saxony
 L = Dresden
-O = Systema GmbH
-OU = Systema GmbH
+O = Stereov
+OU = Stereov
 CN = ${DOMAIN}
 
 [ req_ext ]
